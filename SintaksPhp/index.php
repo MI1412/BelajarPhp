@@ -4,8 +4,8 @@
 
 // standar output
 // echo, print
-// print_r
-// var_dump
+// print_r (mencetak isi array)
+// var_dump (untuk melihat isi)
 
 // penulisan sintaks php
 // 1. php didalam html
@@ -15,12 +15,13 @@
 // variabel 
 // tidak boleh diawali dengan angka tapi boleh mengandung angka
 // $nama = "imron";
+// contoh:
 // echo "halo , nama saya $nama " 
 // operator
 // aritmatika 
 // + - * / %
-// $x = 10;
 // $y = 10;
+// $x = 10;
 // echo $x * $y;
 
 // Penggabungan string / concatenation / concat
@@ -29,7 +30,7 @@
 // $nama_belakang = "m";
 // echo $nama_belakang . "" . $nama_depan;
 //  Assigment 
-// //  =, +=, -=, *=, /=, %=, .=
+// =, +=, -=, *=, /=, %=, .= <-- untuk melanjutkan / menggabungkan variabel sebelumnya
 // $x = 90;
 // $x -= 10;
 // echo $x; 
